@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Sep 15 16:47:22 IST 2011
+wsdl4j-1.0.jar>=
+wsdl4j-1.0.pom>=
+wsdl4j-1.0-sources.jar>central=

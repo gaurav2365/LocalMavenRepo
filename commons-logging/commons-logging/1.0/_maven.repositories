@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Sep 15 16:47:06 IST 2011
+commons-logging-1.0.pom>=
+commons-logging-1.0-sources.jar>central=
+commons-logging-1.0.jar>=

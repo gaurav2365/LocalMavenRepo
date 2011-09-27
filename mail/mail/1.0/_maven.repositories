@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Sep 15 16:47:10 IST 2011
+mail-1.0.pom>=
+mail-1.0-sources.jar>central=
+mail-1.0.jar>=
